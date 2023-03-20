@@ -1,0 +1,16 @@
+.navBar {
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    padding: 10px 30px;
+    background-color: rgb(191, 123, 255);
+}
+
+.game-title {
+    margin-right: auto;
+}
+
+.scores-div {
+    display: flex;
+    flex-direction: column;
+}
