@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.2b86c869.css",
+    "main.js": "/memory-card/static/js/main.c475d9d8.js",
+    "static/js/787.d6a8b40f.chunk.js": "/memory-card/static/js/787.d6a8b40f.chunk.js",
+    "static/media/euclid.jpg": "/memory-card/static/media/euclid.fd18b0534023c5f3fed7.jpg",
+    "static/media/galois.jpg": "/memory-card/static/media/galois.58e324bfdea2e1513403.jpg",
+    "static/media/euler.jpg": "/memory-card/static/media/euler.20df55db5b3a95890e79.jpg",
+    "static/media/ramanujan.jpg": "/memory-card/static/media/ramanujan.a7a53b7b3f9aada36857.jpg",
+    "static/media/rutherford.jpg": "/memory-card/static/media/rutherford.1f98f7b2185fa15259c9.jpg",
+    "static/media/hardy.jpg": "/memory-card/static/media/hardy.db94f6ecc0ee55c4a931.jpg",
+    "static/media/caushy.jpg": "/memory-card/static/media/caushy.0e2abec346b7f87a17f1.jpg",
+    "static/media/turing.jpg": "/memory-card/static/media/turing.8fc8aeedf61814475856.jpg",
+    "static/media/abel.jpg": "/memory-card/static/media/abel.eeb7b7d21f7dc67d0a54.jpg",
+    "static/media/poincare.jpg": "/memory-card/static/media/poincare.1d3f8770ec6c4fcdcbd0.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.2b86c869.css.map": "/memory-card/static/css/main.2b86c869.css.map",
+    "main.c475d9d8.js.map": "/memory-card/static/js/main.c475d9d8.js.map",
+    "787.d6a8b40f.chunk.js.map": "/memory-card/static/js/787.d6a8b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b86c869.css",
+    "static/js/main.c475d9d8.js"
+  ]
+}
