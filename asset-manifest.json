@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory-card/static/css/main.2b86c869.css",
+    "main.css": "/memory-card/static/css/main.5ad9cb48.css",
     "main.js": "/memory-card/static/js/main.c475d9d8.js",
     "static/js/787.d6a8b40f.chunk.js": "/memory-card/static/js/787.d6a8b40f.chunk.js",
     "static/media/euclid.jpg": "/memory-card/static/media/euclid.fd18b0534023c5f3fed7.jpg",
@@ -14,12 +14,12 @@
     "static/media/abel.jpg": "/memory-card/static/media/abel.eeb7b7d21f7dc67d0a54.jpg",
     "static/media/poincare.jpg": "/memory-card/static/media/poincare.1d3f8770ec6c4fcdcbd0.jpg",
     "index.html": "/memory-card/index.html",
-    "main.2b86c869.css.map": "/memory-card/static/css/main.2b86c869.css.map",
+    "main.5ad9cb48.css.map": "/memory-card/static/css/main.5ad9cb48.css.map",
     "main.c475d9d8.js.map": "/memory-card/static/js/main.c475d9d8.js.map",
     "787.d6a8b40f.chunk.js.map": "/memory-card/static/js/787.d6a8b40f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b86c869.css",
+    "static/css/main.5ad9cb48.css",
     "static/js/main.c475d9d8.js"
   ]
 }
